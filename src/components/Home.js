@@ -12,7 +12,7 @@ const Home = ({ dark }) => {
             </div>
             <div className="text">
               <p>
-               I'm a highly passionate and skilled full stack developer residing in New York.
+               I&apos;m a highly passionate and skilled full stack developer residing in New York.
               </p>
             </div>
             <div className="buttons">
